@@ -28,6 +28,8 @@ only real rules here are if things get political or heated or if you want to dis
 
 #projects - A place to talk about your projects and to recruit help.
 
+#offtopic-fightclub - Things getting heated? Maybe the conversation is political and stirring up everyones emotions. Lets put these conversations here and keep the main channels friendly
+
 ## Roles
 
 #n00b - Everyone is granted this roll when they join, it gives you read-only access to our channels. 
