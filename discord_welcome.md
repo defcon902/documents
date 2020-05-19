@@ -11,7 +11,7 @@ If you feel uncomfortable in any way let somebody know and we will follow up.
 
 ## Channels
 
-#welcome - Your here now! This is the default channel, it's read only and meant to help newcomer’s find their way around here
+#welcome - You're here now! This is the default channel, it's read only and meant to help newcomers find their way around here
 
 #general - This is the main lobby. Stop in and say hi, tell us about yourself, share pictures of your pets, ask for help. The
 only real rules here are if things get political or heated or if you want to discuss something like that head over to #offtopic-fightclub
